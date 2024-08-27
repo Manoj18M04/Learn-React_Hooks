@@ -1,0 +1,43 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.cont {
+    display: flex;
+    background-color: rgb(239, 227, 154);
+    width: 550px;
+    height: 250px;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.button {
+    background-color: white;
+    border: 0;
+    width: 100px;
+    height: 100px;
+    font-size: 80px;
+    text-align: center;
+    border-radius: 25px;
+    cursor: pointer;
+    padding: auto;
+    background-color: rgb(129, 194, 32);
+    color: white;
+}
+
+.neg {
+    background-color: tomato;
+}
+
+.span {
+    font-size: 40px;
+    color: rgb(6, 61, 156);
+    font-weight: 700;
+    background-color: rgb(223, 221, 221);
+    padding: 25px;
+    border-radius: 25px;
+}
