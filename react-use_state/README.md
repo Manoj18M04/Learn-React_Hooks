@@ -1,8 +1,9 @@
-# React + Vite
+# React UseState() Hook:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the material which I have used to learn the concept, useSate() - one of the most primary React hooks.
 
-Currently, two official plugins are available:
+Feel free to use this for your learning purpose if needed and don't miss out the command lines as well since, they have some important concepts as well.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Yes, this is very small thing, but smaller things are better in building anything.
+
+**Thank you !!**
